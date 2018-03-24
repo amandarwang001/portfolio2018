@@ -1,0 +1,398 @@
+/*red: #f6576d*/
+/*gray: #838f9c*/
+/*blue: #3f6cb8*/
+/*yellow: #ecc466*/
+/*light blue: #83c8ea*/
+
+
+html {
+    position: relative;
+    min-height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+body {
+    /* Margin bottom by footer height */
+    /*margin-bottom: 30px;*/
+    font-family: 'Nunito', sans-serif;
+    background-color:  #f6576d;
+}
+
+.emphasisFont1 {
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.navbarFont {
+    font-family: 'Amatic SC', cursive;
+}
+
+
+.sticky-logo {
+    position: fixed;
+    bottom: 65px;
+    right: 20px;
+    background-color:#ecc466;
+}
+
+/*-------------------
+About page styling
+--------------------*/
+#aboutCaption {
+    color: #ffffff;
+    position: absolute;
+    bottom: 5%;
+    right: 1%;
+    width: 70%;
+    background: green;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+}
+#aboutCaptionMobile {
+    color: #ffffff;
+    /*position: absolute;*/
+    /*bottom: 5%;*/
+    /*right: 1%;*/
+    width: 100%;
+    background: green;
+    padding: 10px 7px 10px 10px;
+    /*padding-left: 10px;*/
+    /*padding-right: 10px;*/
+    /*padding-top: 7px;*/
+    /*padding-bottom: 10px;*/
+}
+
+.aboutPicture {
+    position: relative;
+}
+
+#aboutUs {
+    background:green;
+    color: #ffffff;
+}
+
+#firstAboutSection {
+    background-color: green;
+}
+#ourTeam {
+    background-color: #84bc87;
+    color: black;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#whatWeDo {
+    background-color: ghostwhite;
+    color: black;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+#whyWeDoThis {
+    /*recommend keeping the color dark and background light for easier reading*/
+    background-color: ghostwhite;
+    color: black;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+/*-------------------
+Contact page styling
+--------------------*/
+#contactUsImage {
+opacity: 0.3;
+    filter: blur(5px);
+    filter: grayscale(60%);
+    filter: contrast(100%);
+}
+#contactUsCaption {
+color: #000000;
+position: absolute;
+top: 0px;
+right: 15%;
+width: 70%;
+/*background: green;*/
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 7px;
+
+}
+
+#contactUsCaptionMobile {
+    color: #ffffff;
+    /*position: absolute;*/
+    /*bottom: 5%;*/
+    /*right: 1%;*/
+    width: 100%;
+    background: green;
+    padding: 10px 7px 10px 10px;
+    /*padding-left: 10px;*/
+    /*padding-right: 10px;*/
+    /*padding-top: 7px;*/
+    /*padding-bottom: 10px;*/
+}
+
+#contactUsContainer {
+    background-color: ghostwhite;
+}
+
+.lastChanceCTA {
+    margin-left: 37%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#lastChanceContainer {
+    background: linear-gradient(to bottom right, green, ghostwhite);
+}
+/*-------------------
+Navbar custom styling
+--------------------*/
+.navbar {
+    z-index: 9999;
+    margin-bottom: 0;
+    /*height: 125px;*/
+    background-color: #ecc466;
+    border-bottom: 6px solid #838f9c;
+    font-size: medium;
+    color: #fff;
+}
+
+.nav-link {
+    font-weight: bold;
+    color: #ffffff !important;
+}
+
+.navbar-light .navbar-toggler {
+    background-color: #ffffff;
+}
+
+.nav-item {
+    margin-top: 10px;
+}
+
+#callnow {
+    /*margin-top: 20px;*/
+    color: #49a93f;
+    font-size: 20px;
+}
+
+#callnow a {
+    font-size: large;
+    color: #fff;
+}
+
+#callnowmobile a {
+    font-size: large;
+    color: #49a93f;
+}
+
+.consultation {
+    font-size: large;
+}
+
+/*-------------------
+Footer custom styling
+--------------------*/
+.footer{
+    /* Set the fixed height of the footer here */
+    height: 50px;
+    line-height: .75em;
+}
+
+.tagline {
+    text-align: center;
+}
+
+.footer p {
+    font-size: medium;
+}
+
+.equal p {
+    font-size: medium;
+}
+
+.contact {
+    background-color: #3f6cb8;
+    color: #fff;
+    padding: 15px;
+    border: none;
+}
+
+a.footerlink {
+    color: #fff;
+    text-decoration: none;
+}
+
+.about, .follow {
+    background-color: #ecc466;
+    color: #fff;
+    border: none;
+    padding: 15px;
+}
+
+.socialicon {
+    height: 50px;
+    width: 50px;
+}
+
+/*-------------------
+Home page styling
+--------------------*/
+.jumbotron {
+    /*height: 500px;*/
+}
+
+.home p, .content p {
+    font-size: large;
+}
+
+#homeabout {
+    font-size: medium;
+}
+
+/*-------------------
+Content custom styling
+--------------------*/
+a#link {
+    color: #49a93f;
+    font-weight: bold;
+}
+
+.badges img {
+    display: inline;
+    width: 200px;
+    height: auto;
+    margin: 10px;
+}
+
+/*.blogposts {
+    border-left: 4px solid #0c2442;
+}*/
+.contactform img {
+    vertical-align: top;
+}
+
+.contentimg {
+    float: right;
+    padding-left: 20px;
+}
+
+.disclaimer {
+    font-size: smaller;
+}
+
+
+/*-------------------
+Media queries
+--------------------*/
+
+@media only screen and (min-width: 1100px) {
+    .nav.navbar-nav {
+        margin-left: 100px;
+    }
+
+    .equal {
+        display: flex;
+        display: -webkit-flex;
+    }
+
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+
+    .dropdown-menu {
+        margin-top: 0px;
+    }
+
+    #logo1 {
+        margin-top: 10px;
+        height: auto;
+        max-width: 250px;
+    }
+
+    #jumbotron {
+        background-size: 100% 100%;
+    }
+
+}
+
+@media only screen and (max-width: 1100px) {
+    .navbar-header {
+        float: none;
+    }
+
+    .navbar-left, .navbar-right {
+        float: none !important;
+    }
+
+    .navbar-toggle {
+        display: block;
+    }
+
+    /*.navbar-collapse {*/
+    /*box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);*/
+    /*background-color: #0c2442;*/
+    /*color: #f6a738;*/
+    /*margin-top: 50px;*/
+    /*text-align: center;*/
+    /*}*/
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+
+    /*changes color of links in mobile navbar*/
+    .navbar-light .navbar-nav .nav-link {
+        color: #ffffff;
+    }
+    .navbar-nav {
+        float: none !important;
+        margin-top: 7.5px;
+    }
+
+    .navbar-nav > li {
+        float: none;
+    }
+
+    .navbar-nav > li > a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    /*.collapse.in{*/
+    /*display:block !important;*/
+    /*}*/
+    #logo1 {
+        height: auto;
+        max-width: 220px;
+    }
+
+    .jumbotron {
+        padding-top: 5px;
+    }
+
+    #jumbotron {
+        background-size: cover;
+    }
+
+    .contact h3, .contact p, .about h3, .about p, .follow h3, .follow p {
+        margin: 0;
+    }
+
+    .acclist {
+        list-style: none;
+        margin-right: 20px;
+    }
+
+    .lastChanceCTA {
+        margin-left: 18% !important;
+    }
+
+    .thumbnail img {
+        width: auto;
+        height: 120px;
+        display: block;
+    }
+}
