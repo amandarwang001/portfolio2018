@@ -49,7 +49,7 @@ define('IMAGE_URL', $baseUrl . 'assets/img/');
 $topLevelPages = array(
     'home' => 'home',
     'services' => 'services',
-    'about-us' => 'about-us',
+    'resume' => 'resume',
     'contact-us' => 'contact-us',
     '404' => '404'
 );
@@ -68,17 +68,17 @@ $topLevelPages = array(
 /*This description array sets up the meta description and title tag for each page identified in the topLevelPages or subLevelPages array*/
 $description = array (
     "home" => array(
-        "meta_desc" => "This is the home page of test site.",
-        "title" => "Home Page"
+        "meta_desc" => "The portfolio of Amanda R Wang.",
+        "title" => "Amanda R Wang"
     ),
-    "about-us" => array(
-        "meta_desc" => "This is the about page of test site",
-        "title" => "About Page"
+    "resume" => array(
+        "meta_desc" => "Resume | Amanda R Wang",
+        "title" => "Resume"
     ),
 
     "contact-us" => array(
-        "meta_desc" => "This is the contact page",
-        "title" => "Contact page"
+        "meta_desc" => "Contact | Amanda R Wang",
+        "title" => "Contact"
 
     ),
     "services" => array(

@@ -9,7 +9,7 @@
     <!--CDN for bootstrap v4 alpha-->
 
     <link rel="stylesheet" href="<?= CSS_URL ?>style.css">
-    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Amatic+SC" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Amatic+SC|Permanent+Marker|Nothing+You+Could+Do" rel="stylesheet">
     <link rel="shortcut icon" href="<?= IMAGE_URL ?>favicon.ico" type="image/x-icon">
     <script src="https://use.fontawesome.com/91741d7c8d.js"></script>
     <script src="<?= JS_URL ?>jquery-3.2.1.min.js"></script>  
@@ -97,18 +97,18 @@ Sample click to call code
         </ul>
         <ul class="nav navbar-nav navbar-right hidden-xs hidden-sm">
 
+<!--            <li class="nav-item">-->
+<!--                <a class="nav-link" href="coding">CODING <span class="sr-only">(current)</span></a>-->
+<!--            </li>-->
             <li class="nav-item">
-                <a class="nav-link" href="coding">CODING <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="resume">RESUME</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="about-us">ABOUT US</a>
+                <a class="nav-link" href="contact-us">CONTACT</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="contact-us">CONTACT US</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="blog/">BLOG</a>
-            </li>
+<!--            <li class="nav-item">-->
+<!--                <a class="nav-link" href="blog/">BLOG</a>-->
+<!--            </li>-->
 <!--            <li id="callnow" class="text-center">-->
 <!--                <div class="btn-nav">-->
 <!--<!--                    <a href="tel:8639443986" class="navbar-btn emphasisFont1"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> (863)-944-3986</strong></a>-->
