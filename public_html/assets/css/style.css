@@ -20,6 +20,9 @@ body {
     color: #ffffff;
 }
 
+.blueBackground {
+    background-color: #3f6cb8;
+}
 .lightBlueBackground {
     background-color:#83c8ea;
 }
@@ -46,7 +49,7 @@ body {
     font-family: 'Permanent Marker', cursive;
 }
 .navbarFont {
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Raleway', sans-serif;
 }
 
 
@@ -207,10 +210,11 @@ Navbar custom styling
     color: #fff;
 }
 
-.navbar-brand {
-    margin-bottom: 0;
-    margin-top: 10px;
-}
+/*.navbar-brand {*/
+    /*margin-bottom: 0;*/
+    /*margin-top: 10px;*/
+    /*width: 50px;*/
+/*}*/
 
 .nav-link {
     font-weight: bold;
@@ -308,9 +312,10 @@ Home page styling
 }
 
 .homeCard {
-    height: 465px;
+    /*height: 465px;*/
     border-radius: 0;
     border: none;
+    font-family: 'Raleway', sans-serif;
 }
 /*-------------------
 Content custom styling
@@ -367,9 +372,9 @@ Media queries
     }
 
     #logo1 {
-        margin-top: 10px;
+        /*margin-top: 10px;*/
         height: auto;
-        max-width: 250px;
+        max-width: 50px;
     }
 
     #jumbotron {
@@ -426,7 +431,7 @@ Media queries
     /*}*/
     #logo1 {
         height: auto;
-        max-width: 220px;
+        max-width: 50px;
     }
 
     .jumbotron {

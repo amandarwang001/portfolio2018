@@ -59,7 +59,8 @@ $topLevelPages = array(
  $subLevelPages = array(
      'coding' => 'coding',
      'blog' => 'blog',
-     'thank-you' => 'thank-you'
+     'thank-you' => 'thank-you',
+     'dijatek' => 'dijatek'
  );
 
  $landingPages = array(
@@ -79,6 +80,11 @@ $description = array (
     "contact-us" => array(
         "meta_desc" => "Contact | Amanda R Wang",
         "title" => "Contact"
+
+    ),
+    "dijatek" => array(
+        "meta_desc" => "Dijatek | Amanda R Wang",
+        "title" => "Dijatek"
 
     ),
     "services" => array(

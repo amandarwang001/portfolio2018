@@ -1,3 +1,6 @@
+My passion in front-end design is the intersection between technology and user experience.
+
+
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-2 pr-2" id="aboutUs">
