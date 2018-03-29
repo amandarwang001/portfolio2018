@@ -5,7 +5,6 @@
         <p class="text-center">
             <small>This site built with PHP, HTML, CSS, Bootstrap 4</small>
         </p>
-
     </div>
 </div>
 
