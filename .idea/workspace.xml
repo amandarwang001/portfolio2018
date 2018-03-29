@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8bb48fa-389a-45bd-b32f-f787cc51a55c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/includes/header.php" afterPath="$PROJECT_DIR$/public_html/includes/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/geneomytablet.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/geneomytablet.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/gxmatablet.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/gxmatablet.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/pathogend.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/pathogend.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/css/style.css" afterPath="$PROJECT_DIR$/public_html/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/includes/home.php" afterPath="$PROJECT_DIR$/public_html/includes/home.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_html/includes/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="80" column="13" lean-forward="true" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+            <state relative-caret-position="545">
+              <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -37,8 +41,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_html/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6495">
-              <caret line="433" column="20" lean-forward="false" selection-start-line="433" selection-start-column="20" selection-end-line="433" selection-end-column="20" />
+            <state relative-caret-position="206">
+              <caret line="301" column="13" lean-forward="false" selection-start-line="301" selection-start-column="13" selection-end-line="301" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -64,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="home.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public_html/includes/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="120" column="12" lean-forward="true" selection-start-line="118" selection-start-column="8" selection-end-line="120" selection-end-column="12" />
+            <state relative-caret-position="61">
+              <caret line="97" column="52" lean-forward="false" selection-start-line="97" selection-start-column="52" selection-end-line="97" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -98,9 +102,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>863</find>
-      <find>light</find>
-      <find>card-img-top</find>
       <find>llowed</find>
       <find>homecard</find>
       <find>jumbo</find>
@@ -109,7 +110,6 @@
       <find>visit dij</find>
       <find>prim</find>
       <find>built with</find>
-      <find>guo xing</find>
       <find>img</find>
       <find>img-fluid</find>
       <find>dijatek</find>
@@ -128,6 +128,10 @@
       <find>bgvid</find>
       <find>call us today</find>
       <find>sticky</find>
+      <find>pathogend</find>
+      <find>guo xing</find>
+      <find>home page</find>
+      <find>card-body</find>
     </findStrings>
     <replaceStrings>
       <replace>blueBackground</replace>
@@ -146,9 +150,9 @@
         <option value="$PROJECT_DIR$/resources/config.php" />
         <option value="$PROJECT_DIR$/public_html/includes/services/dijatek.php" />
         <option value="$PROJECT_DIR$/public_html/includes/resume.php" />
+        <option value="$PROJECT_DIR$/public_html/includes/header.php" />
         <option value="$PROJECT_DIR$/public_html/assets/css/style.css" />
         <option value="$PROJECT_DIR$/public_html/includes/home.php" />
-        <option value="$PROJECT_DIR$/public_html/includes/header.php" />
       </list>
     </option>
   </component>
@@ -410,12 +414,12 @@
       <updated>1521857569677</updated>
       <workItem from="1521857572646" duration="13403000" />
       <workItem from="1522202027650" duration="1771000" />
-      <workItem from="1522288775904" duration="1279000" />
+      <workItem from="1522288775904" duration="1738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16453000" />
+    <option name="totallyTimeSpent" value="16912000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -630,26 +634,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/includes/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="84" column="0" lean-forward="true" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public_html/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6495">
-          <caret line="433" column="20" lean-forward="false" selection-start-line="433" selection-start-column="20" selection-end-line="433" selection-end-column="20" />
+        <state relative-caret-position="206">
+          <caret line="301" column="13" lean-forward="false" selection-start-line="301" selection-start-column="13" selection-end-line="301" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public_html/includes/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="120" column="12" lean-forward="true" selection-start-line="118" selection-start-column="8" selection-end-line="120" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/includes/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="80" column="13" lean-forward="true" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        <state relative-caret-position="61">
+          <caret line="97" column="52" lean-forward="false" selection-start-line="97" selection-start-column="52" selection-end-line="97" selection-end-column="52" />
           <folding />
         </state>
       </provider>

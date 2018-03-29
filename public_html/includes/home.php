@@ -12,12 +12,11 @@
 <div class="container home">
     <h2 class="text-center">A sampling of websites I have designed.</h2>
     <div class="row text-center mt-5">
-
-        <div class="col-md-6">
+        <div class="col-md-6 mb-3">
             <div class="card blueBackground homeCard">
                 <a href="https://geneomy.com/" target="_blank"><img class="img-fluid" src="<?= IMAGE_URL ?>geneomytablet.jpg"
                                                                     alt="PHP Template"></a>
-                <div class="card-body p-2">
+                <div class="card-body cardBodyHeight p-2">
                     <h5 class="card-title">Geneomy</h5>
                     <p class="card-text">Geneomy is a family social network site. It allows family members to connect
                         to each other and share their life events, as well as pass down their memories onto accounts for
@@ -36,13 +35,14 @@
             <div class="card blueBackground homeCard">
                 <a href="http://guoxingmartialarts.com/" target="_blank"><img class="img-fluid" src="<?= IMAGE_URL ?>gxmatablet.jpg"
                      alt="PHP Template"></a>
-                <div class="card-body p-2">
+                <div class="card-body cardBodyHeight p-2">
                     <h5 class="card-title">Guo Xing Martial Arts School</h5>
                     <p class="card-text">Guo Xing Martial Arts School is an internal and external martial arts school
-                        located in Kuraby, QLD, Australia and Orlando, FL, USA.
+                        located in Kuraby, QLD, Australia and Orlando, FL, USA. School offerings are Bagua Zhang, Xingyi Quan, and Taiji Quan, among others.
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and MaterializeCSS. Fully mobile-responsive.
                     </p>
+                    <br><br><br><br>
                     <a href="http://guoxingmartialarts.com/" target="_blank" class="btn btn-red">Visit Guo Xing Martial
                         Arts School</a>
                 </div>
@@ -59,7 +59,7 @@
                 <video id="bgvid" src="<?= IMAGE_URL ?>Dijatek_logo_v1.mp4" autoplay muted type="video/mp4">
             </div>
             <div class="card blueBackground homeCard">
-                <div class="card-body p-2">
+                <div class="card-body cardBodyHeight p-2">
                     <h5 class="card-title">Dijatek</h5>
                     <p class="card-text">Dijatek is a web application company dedicated to building accessible web
                         solutions that make small business easier. Our team is passionate about getting to know your
@@ -77,11 +77,11 @@
 
 <div class="container home mb-5 pb-5">
     <div class="row text-center mt-5 mb-5 pb-5">
-        <div class="col-md-6">
+        <div class="col-md-6 mb-3">
             <div class="card blueBackground homeCard">
                 <a href="http://pathogend.com/" target="_blank"><img class="img-fluid" src="<?= IMAGE_URL ?>pathogend.jpg"
                                                                    alt="PHP Template"></a>
-                <div class="card-body p-2">
+                <div class="card-body cardBodyHeight p-2">
                     <h5 class="card-title">Pathogend</h5>
                     <p class="card-text">blah blah blah
                         <br><br>
@@ -95,7 +95,7 @@
             <div class="card blueBackground homeCard">
                 <a href="http://chachow.com/" target="_blank"><img class="img-fluid" src="<?= IMAGE_URL ?>chachowtablet.jpg"
                                                                    alt="PHP Template"></a>
-                <div class="card-body p-2">
+                <div class="card-body cardBodyHeight p-2">
                     <h5 class="card-title">ChaChow</h5>
                     <p class="card-text">ChaChow is a food truck community website, connecting food truck owners with
                         their customers.
