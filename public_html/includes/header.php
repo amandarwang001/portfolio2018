@@ -69,7 +69,10 @@
 </head>
 <body>
 <div class="text-center hidden-md-up" id="callnowmobile">
-    <a href="tel:4072737027"><strong class="consultation">CALL US TODAY</strong><br><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span><strong>407.123.4567</strong></a>
+    <a href="tel:8639443986"><strong class="consultation">(863)-944-3986</strong></a><br>
+    <a href="mailto: amandarwang001@gmail.com" class="footerlink emphasisFont1">
+        <small>amandarwang001@gmail.com</small>
+    </a>
 </div>
 
 <nav class="navbar navbar-toggleable-md navbar-light">
