@@ -320,6 +320,11 @@ Home page styling
     border: none;
     font-family: 'Raleway', sans-serif;
 }
+
+#bgvid {
+    width: 100%;
+}
+
 /*-------------------
 Content custom styling
 --------------------*/
