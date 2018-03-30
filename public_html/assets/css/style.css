@@ -27,6 +27,10 @@ body {
     background-color:#83c8ea;
 }
 
+.redBackground {
+    background-color: #f6576d;
+}
+
 .btn-red {
     background-color: #f6576d;
     color: #ffffff;
