@@ -16,7 +16,7 @@
                 <a href="https://geneomy.com/" target="_blank"><img class="img-fluid"
                                                                     src="<?= IMAGE_URL ?>geneomytablet.jpg"
                                                                     alt="PHP Template"></a>
-                <div class="card-body cardBodyHeight p-2 d-flex align-items-center flex-column">
+                <div class="card-body p-2 d-flex align-items-center flex-column">
                     <h5 class="card-title">Geneomy</h5>
                     <p class="card-text text-center">Geneomy is a family social network site. It allows family members to connect
                         to each other and share their life events, as well as pass down their memories onto accounts for
@@ -36,7 +36,7 @@
                 <a href="http://guoxingmartialarts.com/" target="_blank"><img class="img-fluid"
                                                                               src="<?= IMAGE_URL ?>gxmatablet.jpg"
                                                                               alt="PHP Template"></a>
-                <div class="card-body cardBodyHeight p-2 d-flex align-items-center flex-column">
+                <div class="card-body p-2 d-flex align-items-center flex-column">
                     <h5 class="card-title">Guo Xing Martial Arts School</h5>
                     <p class="card-text text-center">Guo Xing Martial Arts School is an internal and external martial arts school
                         located in Kuraby, QLD, Australia and Orlando, FL, USA. School offerings are Bagua Zhang, Xingyi
@@ -85,7 +85,7 @@
                 <a href="http://pathogend.com/" target="_blank"><img class="img-fluid"
                                                                      src="<?= IMAGE_URL ?>pathogend.jpg"
                                                                      alt="PHP Template"></a>
-                <div class="card-body cardBodyHeight p-2 d-flex align-items-center flex-column">
+                <div class="card-body p-2 d-flex align-items-center flex-column">
                     <h5 class="card-title">Pathogend</h5>
                     <p class="card-text text-center">Pathogend is a disinfection and bio-decontamination company headquartered in
                         Central Florida. They have four additional locations across the country. Their complex website includes
@@ -102,7 +102,7 @@
                 <a href="http://chachow.com/" target="_blank"><img class="img-fluid"
                                                                    src="<?= IMAGE_URL ?>chachowtablet.jpg"
                                                                    alt="PHP Template"></a>
-                <div class="card-body cardBodyHeight p-2 d-flex align-items-center flex-column">
+                <div class="card-body p-2 d-flex align-items-center flex-column">
                     <h5 class="card-title">ChaChow</h5>
                     <p class="card-text text-center">ChaChow is a food truck community website, connecting food truck owners with
                         their customers.
