@@ -10,7 +10,7 @@
     <!--CDN for bootstrap v4 alpha-->
 
     <link rel="stylesheet" href="<?= CSS_URL ?>style.css">
-    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Amatic+SC|Permanent+Marker|Nothing+You+Could+Do|Raleway"
+    <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Amatic+SC|Permanent+Marker|Nothing+You+Could+Do|Raleway:300"
           rel="stylesheet">
     <link rel="shortcut icon" href="<?= IMAGE_URL ?>favicon.ico" type="image/x-icon">
     <script src="https://use.fontawesome.com/91741d7c8d.js"></script>

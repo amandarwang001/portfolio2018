@@ -23,6 +23,11 @@ body {
 .blueBackground {
     background-color: #3f6cb8;
 }
+
+.grayBackground {
+    background-color: #838f9c;
+}
+
 .lightBlueBackground {
     background-color:#83c8ea;
 }
