@@ -145,13 +145,6 @@
                 </div>
             </div>
 
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-md-9">
-
-
             <div class="card grayBackground navbarFont p-3 mt-3">
                 <div class="card-body">
                     <h5 class="card-title"><u>University of Central Florida Coding Bootcamp -- Orlando, FL</u></h5>
@@ -174,9 +167,7 @@
                 </div>
             </div>
 
-
         </div>
-
     </div>
 </div>
 

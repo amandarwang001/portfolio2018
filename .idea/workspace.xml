@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8bb48fa-389a-45bd-b32f-f787cc51a55c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/css/style.css" afterPath="$PROJECT_DIR$/public_html/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/includes/header.php" afterPath="$PROJECT_DIR$/public_html/includes/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/includes/resume.php" afterPath="$PROJECT_DIR$/public_html/includes/resume.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +29,8 @@
           <file leaf-file-name="resume.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/public_html/includes/resume.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="376">
-                  <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+                <state relative-caret-position="1010">
+                  <caret line="170" column="10" lean-forward="false" selection-start-line="170" selection-start-column="10" selection-end-line="170" selection-end-column="10" />
                   <folding />
                 </state>
               </provider>
@@ -424,12 +421,12 @@
       <workItem from="1522202027650" duration="1771000" />
       <workItem from="1522288775904" duration="2318000" />
       <workItem from="1522375396242" duration="2681000" />
-      <workItem from="1522720821409" duration="1480000" />
+      <workItem from="1522720821409" duration="1573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21653000" />
+    <option name="totallyTimeSpent" value="21746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -790,8 +787,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public_html/includes/resume.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="176" column="0" lean-forward="true" selection-start-line="176" selection-start-column="0" selection-end-line="176" selection-end-column="0" />
+        <state relative-caret-position="1010">
+          <caret line="170" column="10" lean-forward="false" selection-start-line="170" selection-start-column="10" selection-end-line="170" selection-end-column="10" />
           <folding />
         </state>
       </provider>
