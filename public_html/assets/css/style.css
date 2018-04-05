@@ -299,9 +299,19 @@ a.footerlink {
     padding: 15px;
 }
 
-.socialicon {
-    height: 50px;
-    width: 50px;
+.githubIcon, .linkedinIcon {
+     height: 50px;
+     width: 50px;
+ }
+
+/*.linkedinIcon {*/
+    /*height: 60px;*/
+    /*width: 60px;*/
+/*}*/
+
+.githubIcon:hover, .linkedinIcon:hover {
+    background-color: #fff;
+    border-radius: 100%;
 }
 
 /*-------------------
