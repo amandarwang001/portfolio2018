@@ -150,6 +150,7 @@
             <div class="card redBackground p-3 navbarFont">
                 <div class="card-body">
                     <ul>
+                        <li>Design: Photoshop</li>
                         <li>Browser: HTML, CSS, JavaScript, jQuery, Bootstrap, MaterializeCSS</li>
                         <li>API Interaction: consuming APIs, JSON, AJAX</li>
                         <li>Dev Tools: Heroku, Git, GitHub</li>

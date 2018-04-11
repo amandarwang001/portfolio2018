@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8bb48fa-389a-45bd-b32f-f787cc51a55c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/css/style.css" afterPath="$PROJECT_DIR$/public_html/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/includes/home.php" afterPath="$PROJECT_DIR$/public_html/includes/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/includes/resume.php" afterPath="$PROJECT_DIR$/public_html/includes/resume.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,11 +26,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="resume.php" pinned="false" current-in-tab="false">
+          <file leaf-file-name="resume.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/public_html/includes/resume.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" column="101" lean-forward="false" selection-start-line="8" selection-start-column="101" selection-end-line="8" selection-end-column="101" />
+                <state relative-caret-position="270">
+                  <caret line="154" column="50" lean-forward="true" selection-start-line="154" selection-start-column="50" selection-end-line="154" selection-end-column="50" />
                   <folding />
                 </state>
               </provider>
@@ -58,7 +56,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="home.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="home.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/public_html/includes/home.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="401">
@@ -132,12 +130,12 @@
       <find>&lt;li&gt;</find>
       <find>&lt;/ul&gt;</find>
       <find>advanced</find>
-      <find>dijatek</find>
       <find>university</find>
       <find>education</find>
       <find>socialicon</find>
       <find>geneomy</find>
       <find>visit pathogend</find>
+      <find>dijatek</find>
     </findStrings>
     <replaceStrings>
       <replace>blueBackground</replace>
@@ -158,9 +156,9 @@
         <option value="$PROJECT_DIR$/resources/config.php" />
         <option value="$PROJECT_DIR$/public_html/includes/services/dijatek.php" />
         <option value="$PROJECT_DIR$/public_html/includes/header.php" />
-        <option value="$PROJECT_DIR$/public_html/includes/resume.php" />
         <option value="$PROJECT_DIR$/public_html/assets/css/style.css" />
         <option value="$PROJECT_DIR$/public_html/includes/home.php" />
+        <option value="$PROJECT_DIR$/public_html/includes/resume.php" />
       </list>
     </option>
   </component>
@@ -426,12 +424,12 @@
       <workItem from="1522375396242" duration="2681000" />
       <workItem from="1522720821409" duration="1752000" />
       <workItem from="1522890392371" duration="2029000" />
-      <workItem from="1523404373765" duration="619000" />
+      <workItem from="1523404373765" duration="674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24573000" />
+    <option name="totallyTimeSpent" value="24628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="724" extended-state="6" />
@@ -870,14 +868,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public_html/includes/resume.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="101" lean-forward="false" selection-start-line="8" selection-start-column="101" selection-end-line="8" selection-end-column="101" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public_html/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -890,6 +880,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
           <caret line="73" column="96" lean-forward="false" selection-start-line="73" selection-start-column="96" selection-end-line="73" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/includes/resume.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="154" column="50" lean-forward="true" selection-start-line="154" selection-start-column="50" selection-end-line="154" selection-end-column="50" />
           <folding />
         </state>
       </provider>
