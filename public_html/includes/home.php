@@ -17,7 +17,7 @@
                                                                     src="<?= IMAGE_URL ?>geneomytablet.jpg"
                                                                     alt="PHP Template"></a>
                 <div class="card-body p-2 d-flex align-items-center flex-column">
-                    <h5 class="card-title">Geneomy</h5>
+                    <h5 class="card-title"><u>Geneomy</u></h5>
                     <p class="card-text text-center">Geneomy is a family social network site. It allows family members to connect
                         to each other and share their life events, as well as pass down their memories onto accounts for
                         their children.
@@ -37,7 +37,7 @@
                                                                               src="<?= IMAGE_URL ?>gxmatablet.jpg"
                                                                               alt="PHP Template"></a>
                 <div class="card-body p-2 d-flex align-items-center flex-column">
-                    <h5 class="card-title">Guo Xing Martial Arts School</h5>
+                    <h5 class="card-title"><u>Guo Xing Martial Arts School</u></h5>
                     <p class="card-text text-center">Guo Xing Martial Arts School is an internal and external martial arts school
                         located in Kuraby, QLD, Australia and Orlando, FL, USA. School offerings are Bagua Zhang, Xingyi
                         Quan, and Taiji Quan, among others.
@@ -45,7 +45,7 @@
                         Front end built with: PHP, HTML, CSS, and MaterializeCSS. Fully mobile-responsive.
                     </p>
                     <br><br><br><br>
-                    <a href="http://guoxingmartialarts.com/" target="_blank" class="btn btn-red mt-auto">Visit Guo Xing Martial
+                    <a href="http://guoxingmartialarts.com/" target="_blank" class="btn btn-red mt-auto mb-2">Visit Guo Xing Martial
                         Arts School</a>
                 </div>
             </div>
@@ -63,7 +63,7 @@
             </div>
             <div class="card blueBackground homeCard">
                 <div class="card-body p-2 d-flex align-items-center flex-column">
-                    <h5 class="card-title">Dijatek</h5>
+                    <h5 class="card-title"><u>Dijatek</u></h5>
                     <p class="card-text text-center">Dijatek is a web application company dedicated to building accessible web
                         solutions that make small business easier. Our team is passionate about getting to know your
                         business, your industry, and your culture, so that we can solve your UNIQUE problems with custom
@@ -71,7 +71,8 @@
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>
-                    <a href="dijatek" class="btn btn-red mt-auto">Visit Dijatek</a>
+                    <a href="http://dijatek.com/" class="btn btn-red mt-auto mb-2">Visit Dijatek</a>
+<!--                    <a href="dijatek" class="btn btn-red mt-auto mb-2">Visit Dijatek's current site</a>-->
                 </div>
             </div>
         </div>
@@ -86,14 +87,16 @@
                                                                      src="<?= IMAGE_URL ?>pathogend.jpg"
                                                                      alt="PHP Template"></a>
                 <div class="card-body p-2 d-flex align-items-center flex-column">
-                    <h5 class="card-title">Pathogend</h5>
+                    <h5 class="card-title"><u>Pathogend</u></h5>
                     <p class="card-text text-center">Pathogend is a disinfection and bio-decontamination company headquartered in
                         Central Florida. They have four additional locations across the country. Their complex website includes
                         a corporate site, with the four location sites nested within.
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>
-                    <a href="http://pathogend.com/" target="_blank" class="btn btn-red mt-auto">Visit Pathogend</a>
+                    <a href="http://pathogend.dev.dijatek.com/" target="_blank" class="btn btn-red mt-auto mb-2">Visit the Pathogend site I redesigned</a>
+                    <a href="https://pathogend.com/" target="_blank" class="btn btn-gray mt-auto mb-2">Visit the original Pathogend site</a>
+
                 </div>
             </div>
         </div>
@@ -103,13 +106,13 @@
                                                                    src="<?= IMAGE_URL ?>chachowtablet.jpg"
                                                                    alt="PHP Template"></a>
                 <div class="card-body p-2 d-flex align-items-center flex-column">
-                    <h5 class="card-title">ChaChow</h5>
+                    <h5 class="card-title"><u>ChaChow</u></h5>
                     <p class="card-text text-center">ChaChow is a food truck community website, connecting food truck owners with
                         their customers.
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>
-                    <a href="http://chachow.com/" target="_blank" class="btn btn-red mt-auto">Visit ChaChow</a>
+                    <a href="http://chachow.com/" target="_blank" class="btn btn-red mt-auto mb-2">Visit ChaChow</a>
                 </div>
             </div>
         </div>

@@ -43,7 +43,15 @@ body {
 
 .btn-red:hover {
    border-color: white;
+}
 
+.btn-gray {
+    background-color: #838f9c;
+    color: #ffffff;
+}
+
+.btn-gray:hover {
+    border-color: white;
 }
 
 .emphasisFont1 {
