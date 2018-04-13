@@ -14,7 +14,9 @@
           rel="stylesheet">
     <link rel="shortcut icon" href="<?= IMAGE_URL ?>favicon.ico" type="image/x-icon">
     <script src="https://use.fontawesome.com/91741d7c8d.js"></script>
+
     <script src="<?= JS_URL ?>jquery-3.2.1.min.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
 
     <!--
     TODO: Create click to call in Google analytics.
@@ -91,9 +93,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="resume">R&eacute;sum&eacute;</a>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="contact-us">Contact</a>
-            </li>
+<!--            <li class="nav-item">-->
+<!--                <a class="nav-link" href="contact-us">Contact</a>-->
+<!--            </li>-->
 
         </ul>
 <!--        <ul class="nav navbar-nav navbar-right hidden-xs hidden-sm">-->

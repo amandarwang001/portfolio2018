@@ -18,10 +18,10 @@ if ($_SERVER['HTTP_HOST'] == 'localhost'){
 
 
 //this is live base url
-if ($_SERVER['HTTP_HOST'] == 'portfolio2018.com') {
+if ($_SERVER['HTTP_HOST'] == 'amandarwang.com') {
     $basePath = $_SERVER['DOCUMENT_ROOT'] . '/';
     $protocol = ((!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] != 'off') || $_SERVER['SERVER_PORT'] == 443) ? "https://" : "http://";
-    $baseUrl = $protocol . 'portfolio2018.com/';
+    $baseUrl = $protocol . 'amandarwang.com/';
 }
 
 // Set commonly used paths
@@ -50,7 +50,7 @@ $topLevelPages = array(
     'home' => 'home',
     'services' => 'services',
     'resume' => 'resume',
-    'contact-us' => 'contact-us',
+//    'contact-us' => 'contact-us',
     '404' => '404'
 );
 
@@ -77,11 +77,11 @@ $description = array (
         "title" => "Resume"
     ),
 
-    "contact-us" => array(
-        "meta_desc" => "Contact | Amanda R Wang",
-        "title" => "Contact"
+//    "contact-us" => array(
+//        "meta_desc" => "Contact | Amanda R Wang",
+//        "title" => "Contact"
 
-    ),
+//    ),
     "dijatek" => array(
         "meta_desc" => "Dijatek | Amanda R Wang",
         "title" => "Dijatek"

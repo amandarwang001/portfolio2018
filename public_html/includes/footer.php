@@ -34,8 +34,10 @@
     <div class="row">
         <div class="col-md-12 tagline">
             <br/><br/>
-            <p class="text-white"> © <? echo(date('Y')); ?> &#183 Amanda Wang &#183 All Rights Reserved &#183 Orlando,
-                FL </p>
+            <p><small> © <? echo(date('Y')); ?> &#183 Amanda Wang &#183 All Rights Reserved &#183 Orlando,
+                FL
+                </small>
+            </p>
         </div>
     </div>
 </div>

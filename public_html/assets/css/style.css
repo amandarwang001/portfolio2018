@@ -1,9 +1,13 @@
-/*red: #f6576d*/
+/*red: #FF5964*/
 /*gray: #838f9c*/
-/*blue: #3f6cb8*/
+/*blue: #38618C*/
 /*yellow: #ecc466*/
-/*light blue: #83c8ea*/
+/*white: #ffffff*/
 
+/*pale orange: #FFE6D3*/
+/*dark orange: #FFC59A*/
+/*pale yellow: #FFF0D3*/
+/*dark gray: #424242*/
 
 html {
     position: relative;
@@ -16,13 +20,14 @@ body {
     /* Margin bottom by footer height */
     /*margin-bottom: 30px;*/
     font-family: 'Alegreya Sans SC', sans-serif;
-    background-color:  #ecc466;
-    color: #ffffff;
+    background-color:  #FFF6E6;
+    color: #424242;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffd9be+0,ffb985+36,ffbee7+82,ff85d2+100 */
 }
 
-.blueBackground {
-    background-color: #3f6cb8;
-}
+/*.blueBackground {*/
+    /*background-color: #38618C;*/
+/*}*/
 
 .grayBackground {
     background-color: #838f9c;
@@ -33,11 +38,11 @@ body {
 }
 
 .redBackground {
-    background-color: #f6576d;
+    background-color: #FF5964;
 }
 
 .btn-red {
-    background-color: #f6576d;
+    background-color: #FC989F;
     color: #ffffff;
 }
 
@@ -69,12 +74,14 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
-
+.dark-grey-text {
+    color: #424242 !important;
+}
 .sticky-logo {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    background-color:#838f9c;
+    background-color:#FFFfff;
     z-index: 100;
     width: 200px;
     height: 200px;
@@ -221,10 +228,10 @@ Navbar custom styling
     z-index: 9999;
     margin-bottom: 0;
     /*height: 125px;*/
-    background-color: #f6576d;
-    border-bottom: 6px solid #838f9c;
+    background-color: #FFE6D3;
+    border-bottom: 2px solid #FFC59A;
     font-size: medium;
-    color: #fff;
+
 }
 
 /*.navbar-brand {*/
@@ -235,7 +242,7 @@ Navbar custom styling
 
 .nav-link {
     font-weight: bold;
-    color: #ffffff !important;
+    color: #424242 !important;
 }
 
 .navbar-light .navbar-toggler {
@@ -273,7 +280,7 @@ Footer custom styling
     /* Set the fixed height of the footer here */
     height: 50px;
     line-height: .75em;
-    background-color: #3f6cb8;
+    background-color: #FFE6D3;
 }
 
 .tagline {
@@ -328,9 +335,13 @@ Home page styling
 .cardBodyHeight {
     height: 400px;
 }
+.cardBodyBorder {
+    border-top: 1px solid rgba(0,0,0,.125) !important;
+}
+
 .jumbotron {
     /*height: 500px;*/
-    background-color: #838f9c;
+    background-color: #FFBEC1;
 }
 
 .home p, .content p {
@@ -343,8 +354,8 @@ Home page styling
 
 .homeCard {
     /*height: 465px;*/
-    border-radius: 0;
-    border: none;
+    /*border-radius: 0;*/
+    /*border: none;*/
     font-family: 'Raleway', sans-serif;
 }
 

@@ -1,22 +1,24 @@
-<div class="jumbotron jumbotron-fluid mb-5">
-    <div class="container-fluid">
-        <h1 class="display-3 text-center">Amanda R Wang</h1>
-        <p class="lead text-center">-- front-end designer --</p>
-        <p class="text-center">
-            <small>This site built with PHP, HTML, CSS, Bootstrap 4</small>
-        </p>
+<div class="container-fluid pt-5">
+    <div class="row">
+        <div class="col">
+            <h1 class="display-3 text-center">Amanda R Wang</h1>
+            <p class="lead text-center">-- front-end designer --</p>
+            <p class="text-center">
+                <small>This site built with PHP, HTML, CSS, Bootstrap 4</small>
+            </p>
+        </div>
     </div>
 </div>
 
 <div class="container home">
     <h2 class="text-center">A sampling of websites I have designed.</h2>
     <div class="row mt-5">
-        <div class="col-md-6 mb-3">
+        <div class="col-md-8 offset-md-2 mb-3">
             <div class="card blueBackground homeCard">
                 <a href="https://geneomy.com/" target="_blank"><img class="img-fluid"
                                                                     src="<?= IMAGE_URL ?>geneomytablet.jpg"
                                                                     alt="PHP Template"></a>
-                <div class="card-body p-2 d-flex align-items-center flex-column">
+                <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>Geneomy</u></h5>
                     <p class="card-text text-center">Geneomy is a family social network site. It allows family members to connect
                         to each other and share their life events, as well as pass down their memories onto accounts for
@@ -31,12 +33,14 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
+    </div>
+    <div class="row mt-5">
+        <div class="col-md-8 offset-md-2">
             <div class="card blueBackground homeCard">
                 <a href="http://guoxingmartialarts.com/" target="_blank"><img class="img-fluid"
                                                                               src="<?= IMAGE_URL ?>gxmatablet.jpg"
                                                                               alt="PHP Template"></a>
-                <div class="card-body p-2 d-flex align-items-center flex-column">
+                <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>Guo Xing Martial Arts School</u></h5>
                     <p class="card-text text-center">Guo Xing Martial Arts School is an internal and external martial arts school
                         located in Kuraby, QLD, Australia and Orlando, FL, USA. School offerings are Bagua Zhang, Xingyi
@@ -44,7 +48,7 @@
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and MaterializeCSS. Fully mobile-responsive.
                     </p>
-                    <br><br><br><br>
+
                     <a href="http://guoxingmartialarts.com/" target="_blank" class="btn btn-red mt-auto mb-2">Visit Guo Xing Martial
                         Arts School</a>
                 </div>
@@ -55,14 +59,14 @@
 
 
 <div class="container home">
-    <div class="row text-center mt-5 pt-5">
+    <div class="row text-center mt-5">
         <div class="col">
             <div id="video">
                 <video id="bgvid" src="<?= IMAGE_URL ?>Dijatek_logo_v1.mp4" poster="<?= IMAGE_URL ?>dijatek-poster.jpg"
                        controls muted type="video/mp4"></video>
             </div>
             <div class="card blueBackground homeCard">
-                <div class="card-body p-2 d-flex align-items-center flex-column">
+                <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>Dijatek</u></h5>
                     <p class="card-text text-center">Dijatek is a web application company dedicated to building accessible web
                         solutions that make small business easier. Our team is passionate about getting to know your
@@ -79,14 +83,14 @@
     </div>
 </div>
 
-<div class="container home mb-5 pb-5">
-    <div class="row mt-5 mb-5 pb-5">
-        <div class="col-md-6 mb-3">
+<div class="container home">
+    <div class="row mt-5">
+        <div class="col-md-8 offset-md-2 mb-3">
             <div class="card blueBackground homeCard">
                 <a href="http://pathogend.com/" target="_blank"><img class="img-fluid"
                                                                      src="<?= IMAGE_URL ?>pathogend.jpg"
                                                                      alt="PHP Template"></a>
-                <div class="card-body p-2 d-flex align-items-center flex-column">
+                <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>Pathogend</u></h5>
                     <p class="card-text text-center">Pathogend is a disinfection and bio-decontamination company headquartered in
                         Central Florida. They have four additional locations across the country. Their complex website includes
@@ -94,18 +98,20 @@
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>
-                    <a href="http://pathogend.dev.dijatek.com/" target="_blank" class="btn btn-red mt-auto mb-2">Visit the Pathogend site I redesigned</a>
+                    <a href="http://pathogend.dev.dijatek.com/" target="_blank" class="btn btn-red mt-auto mb-2">Visit my redesign of this site</a>
                     <a href="https://pathogend.com/" target="_blank" class="btn btn-gray mt-auto mb-2">Visit the original Pathogend site</a>
 
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
+    </div>
+    <div class="row mt-5 mb-5">
+        <div class="col-md-8 offset-md-2">
             <div class="card blueBackground homeCard">
                 <a href="http://chachow.com/" target="_blank"><img class="img-fluid"
                                                                    src="<?= IMAGE_URL ?>chachowtablet.jpg"
                                                                    alt="PHP Template"></a>
-                <div class="card-body p-2 d-flex align-items-center flex-column">
+                <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>ChaChow</u></h5>
                     <p class="card-text text-center">ChaChow is a food truck community website, connecting food truck owners with
                         their customers.
@@ -122,11 +128,11 @@
 
 <div class="sticky-logo p-2 hidden-sm-down">
     <div class="sticky-text text-center">
-        <a href="tel:8639443986" class="navbar-btn emphasisFont1 text-white"></span>
+        <a href="tel:8639443986" class="navbar-btn emphasisFont1 dark-grey-text"></span>
             <small>(863)-944-3986</strong></small>
         </a>
         <br>
-        <a href="mailto: amandarwang001@gmail.com" class="footerlink emphasisFont1">
+        <a href="mailto: amandarwang001@gmail.com" class="footerlink emphasisFont1 dark-grey-text">
             <small>amandarwang001@gmail.com</small>
         </a>
     </div>

@@ -1,12 +1,13 @@
-<div class="jumbotron jumbotron-fluid mb-5">
-    <div class="container-fluid text-center">
-        <h1 class="display-3 text-center">R&eacute;sum&eacute;</h1>
-        <p class="lead text-center">My passion for front-end design is built at the intersection of technology and the
-            user experience.</p>
-        <a href="https://www.linkedin.com/in/amandarwang/" class="btn-social btn-outline" target="_blank"><img
-                    src="<?= IMAGE_URL ?>linked-in-icon.png" class="img-responsive linkedinIcon" alt="Linked In"></a>
-        <a href="https://github.com/amandarwang001" class="btn-social btn-outline" target="_blank"><img
-                    src="<?= IMAGE_URL ?>GitHub-Mark-120px-plus.png" class="img-responsive githubIcon" alt="Github"></a>
+<div class="container-fluid py-5">
+    <div class="row">
+        <div class="col text-center">
+            <h1 class="display-3 text-center">R&eacute;sum&eacute;</h1>
+            <p class="lead text-center">The intersection of technology, psychology, and artistry is my happy place.</p>
+            <a href="https://www.linkedin.com/in/amandarwang/" class="btn-social btn-outline" target="_blank"><img
+                        src="<?= IMAGE_URL ?>linked-in-icon.png" class="img-responsive linkedinIcon" alt="Linked In"></a>
+            <a href="https://github.com/amandarwang001" class="btn-social btn-outline" target="_blank"><img
+                        src="<?= IMAGE_URL ?>GitHub-Mark-120px-plus.png" class="img-responsive githubIcon" alt="Github"></a>
+        </div>
     </div>
 </div>
 
@@ -27,15 +28,13 @@
                         </a>
                 </div>
             </div>
-
-
         </div>
     </div>
     <div class="row">
         <div class="col-md-8">
         <h3 class="pt-3">Work Experience</h3>
 
-            <div class="card lightBlueBackground navbarFont p-3 mt-3">
+            <div class="card navbarFont p-3 mt-3">
                 <div class="card-body">
                     <h4 class="card-title">Dijatek, LLC - Oviedo, FL</h4>
                     <h6 class="card-subtitle">Director of Operations & Full Stack Developer, Mar. 2017 - current</h6>
@@ -53,7 +52,7 @@
                         <li>Experienced with government contracts</li>
                     </ul>
                     <p>
-                        Lead front-end designer<
+                        Lead front-end designer
                     </p>
                     <ul>
                         <li>Designed UI/UX based on client needs</li>
@@ -73,7 +72,7 @@
                 </div>
             </div>
 
-            <div class="card lightBlueBackground navbarFont p-3 mt-3">
+            <div class="card navbarFont p-3 mt-3">
                 <div class="card-body">
                     <h4 class="card-title">Guo Xing Martial Arts School - Orlando, FL</h4>
                     <h6 class="card-subtitle">Instructor, July. 2017 - current</h6>
@@ -95,7 +94,7 @@
             </div>
 
 
-            <div class="card lightBlueBackground navbarFont p-3 mt-3">
+            <div class="card navbarFont p-3 mt-3">
                 <div class="card-body">
                     <h4 class="card-title">Natural Medicine Simplified - Orlando, FL</h4>
                     <h6 class="card-subtitle">Owner, Doctor of Oriental Medicine, 2016</h6>
@@ -112,7 +111,7 @@
                 </div>
             </div>
 
-            <div class="card lightBlueBackground navbarFont p-3 mt-3">
+            <div class="card navbarFont p-3 mt-3">
                 <div class="card-body">
                     <h4 class="card-title">Independent Acupuncturist Consultant - Orlando, FL</h4>
                     <h6 class="card-subtitle">Doctor of Oriental Medicine, 2012-2016</h6>
@@ -126,7 +125,7 @@
                 </div>
             </div>
 
-            <div class="card lightBlueBackground navbarFont p-3 mt-3 mb-5">
+            <div class="card navbarFont p-3 mt-3 mb-5">
                 <div class="card-body">
                     <h4 class="card-title">Advanced Oriental Medicine - Orlando, FL</h4>
                     <h6 class="card-subtitle">Doctor of Oriental Medicine, 2010-2012</h6>
@@ -147,10 +146,12 @@
         </div>
         <div class="col-md-4 mt-3">
             <h3 class="pb-2">Technology Summary</h3>
-            <div class="card redBackground p-3 navbarFont">
+            <div class="card p-3 navbarFont">
                 <div class="card-body">
                     <ul>
                         <li>Design: Photoshop</li>
+                        <li>Planning: Trello</li>
+                        <li>Team integration: Trello, Slack, Zoom, GCal, GDrive</li>
                         <li>Browser: HTML, CSS, JavaScript, jQuery, Bootstrap, MaterializeCSS</li>
                         <li>API Interaction: consuming APIs, JSON, AJAX</li>
                         <li>Dev Tools: Heroku, Git, GitHub</li>
@@ -160,14 +161,14 @@
                 </div>
             </div>
             <h3 class="pt-3">Education</h3>
-            <div class="card grayBackground navbarFont p-3 mt-3">
+            <div class="card navbarFont p-3 mt-3">
                 <div class="card-body">
                     <h6 class="card-title">University of Central Florida Coding Bootcamp -- Orlando, FL</h6>
                     <p class="card-subtitle"><small>Certificate in Full-Stack Web Development, September 2016</small></p>
                 </div>
             </div>
 
-            <div class="card grayBackground navbarFont p-3 mt-3">
+            <div class="card navbarFont p-3 mt-3">
                 <div class="card-body">
                     <h6 class="card-title">Florida College of Integrative Medicine - Orlando, FL</h6>
                     <p class="card-subtitle"><small>Master of Science in Acupuncture and Oriental Medicine -- 2010<br>
@@ -175,7 +176,7 @@
                 </div>
             </div>
 
-            <div class="card grayBackground navbarFont p-3 mt-3 mb-5">
+            <div class="card navbarFont p-3 mt-3 mb-5">
                 <div class="card-body">
                     <h6 class="card-title">Eckerd College - St. Petersburg, FL</h6>
                     <p class="card-subtitle"><small>Bachelor of Science in Biology - 2006</small></p>

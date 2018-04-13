@@ -15,6 +15,8 @@
  *      pages in the array, it is also used as the default should nothing else be passed in that
  *      is recognized as a page.
  */
+//change to ../resources for localhost:8888
+//change to ./resources for live
 include('../resources/config.php');
 
 $meta_desc = $description["home"]["meta_desc"];
