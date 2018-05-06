@@ -8,6 +8,7 @@
 /*dark orange: #FFC59A*/
 /*pale yellow: #FFF0D3*/
 /*dark gray: #424242*/
+/*pink: #FC989F*/
 
 html {
     position: relative;
@@ -41,21 +42,21 @@ body {
     background-color: #FF5964;
 }
 
-.btn-red {
-    background-color: #FC989F;
+.btn-black {
+    background-color: #111111;
     color: #ffffff;
 }
 
-.btn-red:hover {
+.btn-black:hover {
    border-color: white;
 }
 
-.btn-gray {
-    background-color: #838f9c;
+.btn-purple {
+    background-color: #623f98;
     color: #ffffff;
 }
 
-.btn-gray:hover {
+.btn-purple:hover {
     border-color: white;
 }
 

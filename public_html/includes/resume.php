@@ -18,14 +18,15 @@
             <div class="card blueBackground text-center py-3">
                 <div class="card-body">
                     <h5 class="card-title">Amanda R Wang</h5>
-                    <p class="card-text">Orlando, FL 32829 | 863-944-3986 | amandarwang001@gmail.com
-                        <a href="tel:8639443986" class="navbar-btn emphasisFont1 text-white"></span>
+                        <a href="tel:8639443986" class="navbar-btn emphasisFont1 dark-grey-text"></span>
                             <small>(863)-944-3986</strong></small>
                         </a>
-                        <br>
-                        <a href="mailto: amandarwang001@gmail.com" class="footerlink">
+                       |
+                        <a href="mailto: amandarwang001@gmail.com" class="footerlink dark-grey-text">
                             <small>amandarwang001@gmail.com</small>
                         </a>
+                    <br>
+                    <small>Orlando, FL 32829</small>
                 </div>
             </div>
         </div>

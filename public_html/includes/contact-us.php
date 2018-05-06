@@ -67,7 +67,7 @@
                         <textarea rows="5" cols="5" class="form-control" type="text" name='msg' id="msg"
                                   placeholder="Message" required></textarea>
                     </div>
-                    <button class="btn btn-red btn-contact">Submit</button>
+                    <button class="btn btn-black btn-contact">Submit</button>
                 </form>
             </div>
 

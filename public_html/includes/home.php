@@ -15,8 +15,8 @@
     <div class="row mt-5">
         <div class="col-md-8 offset-md-2 mb-3">
             <div class="card blueBackground homeCard">
-                <a href="https://geneomy.com/" target="_blank"><img class="img-fluid"
-                                                                    src="<?= IMAGE_URL ?>geneomytablet.jpg"
+                <a href="https://geneomy.com/" target="_blank" rel="noopener"><img class="img-fluid"
+                                                                    src="<?= IMAGE_URL ?>geneomytablet.png"
                                                                     alt="PHP Template"></a>
                 <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>Geneomy</u></h5>
@@ -29,7 +29,7 @@
                         Give it a try or view my sample account: amandarwang001@gmail.com <br>PW: abcd1234
 
                     </p>
-                    <a href="https://geneomy.com/" target="_blank" class="btn btn-red mb-2">Visit Geneomy</a>
+                    <a href="https://geneomy.com/" target="_blank" rel="noopener" class="btn btn-black mb-2">Visit Geneomy</a>
                 </div>
             </div>
         </div>
@@ -37,8 +37,8 @@
     <div class="row mt-5">
         <div class="col-md-8 offset-md-2">
             <div class="card blueBackground homeCard">
-                <a href="http://guoxingmartialarts.com/" target="_blank"><img class="img-fluid"
-                                                                              src="<?= IMAGE_URL ?>gxmatablet.jpg"
+                <a href="http://guoxingmartialarts.com/" target="_blank" rel="noopener"><img class="img-fluid"
+                                                                              src="<?= IMAGE_URL ?>gxmatablet.png"
                                                                               alt="PHP Template"></a>
                 <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>Guo Xing Martial Arts School</u></h5>
@@ -49,7 +49,7 @@
                         Front end built with: PHP, HTML, CSS, and MaterializeCSS. Fully mobile-responsive.
                     </p>
 
-                    <a href="http://guoxingmartialarts.com/" target="_blank" class="btn btn-red mt-auto mb-2">Visit Guo Xing Martial
+                    <a href="http://guoxingmartialarts.com/" target="_blank" rel="noopener" class="btn btn-black mt-auto mb-2">Visit Guo Xing Martial
                         Arts School</a>
                 </div>
             </div>
@@ -75,8 +75,9 @@
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>
-                    <a href="http://dijatek.com/" class="btn btn-red mt-auto mb-2">Visit Dijatek</a>
-<!--                    <a href="dijatek" class="btn btn-red mt-auto mb-2">Visit Dijatek's current site</a>-->
+                    <a href="http://dijatek.com/" class="btn btn-black mt-auto mb-2">Visit Dijatek</a>
+                    <a href="http://dijatek2018.dev.dijatek.com/" class="btn btn-black mt-auto mb-2">Visit Dijatek's website V2 (work in progress)</a>
+
                 </div>
             </div>
         </div>
@@ -87,8 +88,8 @@
     <div class="row mt-5">
         <div class="col-md-8 offset-md-2 mb-3">
             <div class="card blueBackground homeCard">
-                <a href="http://pathogend.com/" target="_blank"><img class="img-fluid"
-                                                                     src="<?= IMAGE_URL ?>pathogend.jpg"
+                <a href="http://pathogend.com/" target="_blank" rel="noopener"><img class="img-fluid"
+                                                                     src="<?= IMAGE_URL ?>pathogend2.png"
                                                                      alt="PHP Template"></a>
                 <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>Pathogend</u></h5>
@@ -98,8 +99,8 @@
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>
-                    <a href="http://pathogend.dev.dijatek.com/" target="_blank" class="btn btn-red mt-auto mb-2">Visit my redesign of this site</a>
-                    <a href="https://pathogend.com/" target="_blank" class="btn btn-gray mt-auto mb-2">Visit the original Pathogend site</a>
+                    <a href="http://pathogend.dev.dijatek.com/" target="_blank" rel="noopener" class="btn btn-black mt-auto mb-2">Visit my redesign of this site (dev site)</a>
+                    <a href="https://pathogend.com/" target="_blank" rel="noopener" class="btn btn-purple mt-auto mb-2">Visit the original Pathogend site</a>
 
                 </div>
             </div>
@@ -108,8 +109,8 @@
     <div class="row mt-5 mb-5">
         <div class="col-md-8 offset-md-2">
             <div class="card blueBackground homeCard">
-                <a href="http://chachow.com/" target="_blank"><img class="img-fluid"
-                                                                   src="<?= IMAGE_URL ?>chachowtablet.jpg"
+                <a href="http://chachow.com/" target="_blank" rel="noopener"><img class="img-fluid"
+                                                                   src="<?= IMAGE_URL ?>chachowtablet.png"
                                                                    alt="PHP Template"></a>
                 <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>ChaChow</u></h5>
@@ -118,7 +119,7 @@
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>
-                    <a href="http://chachow.com/" target="_blank" class="btn btn-red mt-auto mb-2">Visit ChaChow</a>
+                    <a href="http://chachow.com/" target="_blank" rel="noopener" class="btn btn-black mt-auto mb-2">Visit ChaChow</a>
                 </div>
             </div>
         </div>
@@ -128,7 +129,7 @@
 
 <div class="sticky-logo p-2 hidden-sm-down">
     <div class="sticky-text text-center">
-        <a href="tel:8639443986" class="navbar-btn emphasisFont1 dark-grey-text"></span>
+        <a href="tel:8639443986" class="navbar-btn emphasisFont1 dark-grey-text">
             <small>(863)-944-3986</strong></small>
         </a>
         <br>
