@@ -15,21 +15,26 @@
     <div class="row mt-5">
         <div class="col-md-8 offset-md-2 mb-3">
             <div class="card blueBackground homeCard">
-                <a href="https://geneomy.com/" target="_blank" rel="noopener"><img class="img-fluid"
-                                                                    src="<?= IMAGE_URL ?>geneomytablet.png"
-                                                                    alt="PHP Template"></a>
+                <a href="https://geneomy.com/" target="_blank" rel="noopener">
+                    <picture>
+                        <source media="(min-width: 650px)" srcset="<?= IMAGE_URL ?>geneomy.jpg" style="width: 100%;">
+                        <source media="(min-width: 465px)" srcset="<?= IMAGE_URL ?>geneomy-small.jpg" style="width: 100%;">
+                        <img src="<?= IMAGE_URL ?>geneomy-small.jpg" alt="geneomy" style="width:100%;">
+                    </picture>
+                </a>
                 <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>Geneomy</u></h5>
-                    <p class="card-text text-center">Geneomy is a family social network site. It allows family members to connect
+                    <p class="card-text text-center">Geneomy is a family social network site. It allows family members
+                        to connect
                         to each other and share their life events, as well as pass down their memories onto accounts for
                         their children.
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and MaterializeCSS. Fully mobile-responsive.
                         <br><br>
                         Give it a try or view my sample account: amandarwang001@gmail.com <br>PW: abcd1234
-
                     </p>
-                    <a href="https://geneomy.com/" target="_blank" rel="noopener" class="btn btn-black mb-2">Visit Geneomy</a>
+                    <a href="https://geneomy.com/" target="_blank" rel="noopener" class="btn btn-black mb-2">Visit
+                        Geneomy</a>
                 </div>
             </div>
         </div>
@@ -37,27 +42,33 @@
     <div class="row mt-5">
         <div class="col-md-8 offset-md-2">
             <div class="card blueBackground homeCard">
-                <a href="http://guoxingmartialarts.com/" target="_blank" rel="noopener"><img class="img-fluid"
-                                                                              src="<?= IMAGE_URL ?>gxmatablet.png"
-                                                                              alt="PHP Template"></a>
+                <a href="http://guoxingmartialarts.com/" target="_blank" rel="noopener">
+
+                    <picture>
+                        <source media="(min-width: 650px)" srcset="<?= IMAGE_URL ?>gxmatablet.jpg" style="width: 100%;">
+                        <source media="(min-width: 465px)" srcset="<?= IMAGE_URL ?>gxmatablet-small.jpg"
+                                style="width: 100%;">
+                        <img src="<?= IMAGE_URL ?>gxmatablet-small.jpg" alt="Guo Xing Martial Arts School"
+                             style="width:100%;">
+                    </picture>
+                </a>
                 <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>Guo Xing Martial Arts School</u></h5>
-                    <p class="card-text text-center">Guo Xing Martial Arts School is an internal and external martial arts school
+                    <p class="card-text text-center">Guo Xing Martial Arts School is an internal and external martial
+                        arts school
                         located in Kuraby, QLD, Australia and Orlando, FL, USA. School offerings are Bagua Zhang, Xingyi
                         Quan, and Taiji Quan, among others.
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and MaterializeCSS. Fully mobile-responsive.
                     </p>
-
-                    <a href="http://guoxingmartialarts.com/" target="_blank" rel="noopener" class="btn btn-black mt-auto mb-2">Visit Guo Xing Martial
+                    <a href="http://guoxingmartialarts.com/" target="_blank" rel="noopener"
+                       class="btn btn-black mt-auto mb-2">Visit Guo Xing Martial
                         Arts School</a>
                 </div>
             </div>
         </div>
     </div>
 </div>
-
-
 <div class="container home">
     <div class="row text-center mt-5">
         <div class="col">
@@ -68,7 +79,8 @@
             <div class="card blueBackground homeCard">
                 <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>Dijatek</u></h5>
-                    <p class="card-text text-center">Dijatek is a web application company dedicated to building accessible web
+                    <p class="card-text text-center">Dijatek is a web application company dedicated to building
+                        accessible web
                         solutions that make small business easier. Our team is passionate about getting to know your
                         business, your industry, and your culture, so that we can solve your UNIQUE problems with custom
                         web solutions.
@@ -76,7 +88,8 @@
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>
                     <a href="http://dijatek.com/" class="btn btn-black mt-auto mb-2">Visit Dijatek</a>
-                    <a href="http://dijatek2018.dev.dijatek.com/" class="btn btn-black mt-auto mb-2">Visit Dijatek's website V2 (work in progress)</a>
+                    <a href="http://dijatek2018.dev.dijatek.com/" class="btn btn-black mt-auto mb-2">Visit Dijatek's
+                        website V2 <br>(dev site)</a>
 
                 </div>
             </div>
@@ -88,19 +101,27 @@
     <div class="row mt-5">
         <div class="col-md-8 offset-md-2 mb-3">
             <div class="card blueBackground homeCard">
-                <a href="http://pathogend.com/" target="_blank" rel="noopener"><img class="img-fluid"
-                                                                     src="<?= IMAGE_URL ?>pathogend2.png"
-                                                                     alt="PHP Template"></a>
+                <a href="http://pathogend.com/" target="_blank" rel="noopener">
+                    <picture>
+                        <source media="(min-width: 650px)" srcset="<?= IMAGE_URL ?>pathogend.jpg" style="width: 100%;">
+                        <source media="(min-width: 465px)" srcset="<?= IMAGE_URL ?>pathogend-small.jpg" style="width: 100%;">
+                        <img src="<?= IMAGE_URL ?>pathogend-small.jpg" alt="pathogend" style="width:100%;">
+                    </picture>
+                </a>
                 <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>Pathogend</u></h5>
-                    <p class="card-text text-center">Pathogend is a disinfection and bio-decontamination company headquartered in
-                        Central Florida. They have four additional locations across the country. Their complex website includes
+                    <p class="card-text text-center">Pathogend is a disinfection and bio-decontamination company
+                        headquartered in
+                        Central Florida. They have four additional locations across the country. Their complex website
+                        includes
                         a corporate site, with the four location sites nested within.
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>
-                    <a href="http://pathogend.dev.dijatek.com/" target="_blank" rel="noopener" class="btn btn-black mt-auto mb-2">Visit my redesign of this site (dev site)</a>
-                    <a href="https://pathogend.com/" target="_blank" rel="noopener" class="btn btn-purple mt-auto mb-2">Visit the original Pathogend site</a>
+                    <a href="http://pathogend.dev.dijatek.com/" target="_blank" rel="noopener"
+                       class="btn btn-black mt-auto mb-2">Visit my redesign of this site <br>(dev site)</a>
+                    <a href="https://pathogend.com/" target="_blank" rel="noopener" class="btn btn-purple mt-auto mb-2">Visit
+                        the original Pathogend site</a>
 
                 </div>
             </div>
@@ -109,17 +130,23 @@
     <div class="row mt-5 mb-5">
         <div class="col-md-8 offset-md-2">
             <div class="card blueBackground homeCard">
-                <a href="http://chachow.com/" target="_blank" rel="noopener"><img class="img-fluid"
-                                                                   src="<?= IMAGE_URL ?>chachowtablet.png"
-                                                                   alt="PHP Template"></a>
+                <a href="http://chachow.com/" target="_blank" rel="noopener">
+                    <picture>
+                        <source media="(min-width: 650px)" srcset="<?= IMAGE_URL ?>chachowtablet.jpg" style="width: 100%;">
+                        <source media="(min-width: 465px)" srcset="<?= IMAGE_URL ?>chachowtablet-small.jpg" style="width: 100%;">
+                        <img src="<?= IMAGE_URL ?>chachowtablet-small.jpg" alt="chachow" style="width:100%;">
+                    </picture>
+                </a>
                 <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>ChaChow</u></h5>
-                    <p class="card-text text-center">ChaChow is a food truck community website, connecting food truck owners with
+                    <p class="card-text text-center">ChaChow is a food truck community website, connecting food truck
+                        owners with
                         their customers.
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>
-                    <a href="http://chachow.com/" target="_blank" rel="noopener" class="btn btn-black mt-auto mb-2">Visit ChaChow</a>
+                    <a href="http://chachow.com/" target="_blank" rel="noopener" class="btn btn-black mt-auto mb-2">Visit
+                        ChaChow</a>
                 </div>
             </div>
         </div>
