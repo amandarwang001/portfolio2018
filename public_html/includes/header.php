@@ -4,19 +4,18 @@
     <TITLE><?php echo $title; ?></TITLE>
     <meta name="description" content="<?php echo $meta_desc; ?>"/>
 
-    <!--CDN for bootstrap v4 alpha-->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
-          integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+    <!--CDN for bootstrap 4-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
     <!--CDN for bootstrap v4 alpha-->
 
     <link rel="stylesheet" href="<?= CSS_URL ?>style.css">
     <link href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Raleway:300"
           rel="stylesheet">
     <link rel="shortcut icon" href="<?= IMAGE_URL ?>favicon.ico" type="image/x-icon">
-    <script src="https://use.fontawesome.com/91741d7c8d.js"></script>
+    <script src="https://use.fontawesome.com/91741d7c8d.js" defer></script>
 
-    <script src="<?= JS_URL ?>jquery-3.2.1.min.js"></script>
-    <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+    <script src="<?= JS_URL ?>jquery-3.2.1.min.js" defer></script>
+<!--    <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>-->
 
     <!--
     TODO: Create click to call in Google analytics.
@@ -70,14 +69,14 @@
 
 </head>
 <body>
-<div class="text-center hidden-md-up" id="callnowmobile">
+<div class="text-center d-md-none" id="callnowmobile">
     <a href="tel:8639443986"><strong class="consultation dark-grey-text">(863)-944-3986</strong></a><br>
     <a href="mailto: amandarwang001@gmail.com" class="footerlink emphasisFont1 dark-grey-text">
         <small>amandarwang001@gmail.com</small>
     </a>
 </div>
 
-<nav class="navbar navbar-toggleable-md navbar-light">
+<nav class="navbar navbar-expand-lg navbar-light">
     <button class="navbar-toggler navbar-toggler-right my-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>

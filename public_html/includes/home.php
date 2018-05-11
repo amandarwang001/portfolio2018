@@ -154,7 +154,7 @@
 </div>
 
 
-<div class="sticky-logo p-2 hidden-sm-down">
+<div class="sticky-logo p-2 d-none d-sm-block">
     <div class="sticky-text text-center">
         <a href="tel:8639443986" class="navbar-btn emphasisFont1 dark-grey-text">
             <small>(863)-944-3986</strong></small>
