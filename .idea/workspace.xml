@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8bb48fa-389a-45bd-b32f-f787cc51a55c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/AW-logo.png" afterPath="$PROJECT_DIR$/public_html/assets/img/AW-logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/chachowtablet-small.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/chachowtablet-small.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/chachowtablet.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/chachowtablet.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/dijatek-poster.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/dijatek-poster.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/geneomy-small.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/geneomy-small.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/geneomy.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/geneomy.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/gxmatablet-small.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/gxmatablet-small.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/gxmatablet.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/gxmatablet.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/pathogend-small.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/pathogend-small.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/assets/img/pathogend.jpg" afterPath="$PROJECT_DIR$/public_html/assets/img/pathogend.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/.htaccess" afterPath="$PROJECT_DIR$/public_html/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/includes/footer.php" afterPath="$PROJECT_DIR$/public_html/includes/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/includes/header.php" afterPath="$PROJECT_DIR$/public_html/includes/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public_html/includes/home.php" afterPath="$PROJECT_DIR$/public_html/includes/home.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +18,8 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_html/includes/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="47" />
+            <state relative-caret-position="150">
+              <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -41,7 +28,7 @@
       <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_html/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="577">
+            <state relative-caret-position="915">
               <caret line="61" column="21" lean-forward="false" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
               <folding />
             </state>
@@ -81,7 +68,7 @@
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_html/includes/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
+            <state relative-caret-position="630">
               <caret line="42" column="6" lean-forward="true" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
               <folding />
             </state>
@@ -91,8 +78,8 @@
       <file leaf-file-name="home.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public_html/includes/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="140" column="13" lean-forward="true" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
+            <state relative-caret-position="282">
+              <caret line="119" column="24" lean-forward="false" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -145,13 +132,13 @@
       <find>rale</find>
       <find>chachow</find>
       <find>visit my red</find>
-      <find>pathogend</find>
       <find>sticky</find>
       <find>awe</find>
       <find>awes</find>
       <find>awesome</find>
       <find>j</find>
       <find>jquery</find>
+      <find>pathogend</find>
     </findStrings>
     <replaceStrings>
       <replace>blueBackground</replace>
@@ -175,9 +162,9 @@
         <option value="$PROJECT_DIR$/public_html/includes/contact-us.php" />
         <option value="$PROJECT_DIR$/public_html/assets/css/style.css" />
         <option value="$PROJECT_DIR$/public_html/includes/footer.php" />
-        <option value="$PROJECT_DIR$/public_html/includes/home.php" />
         <option value="$PROJECT_DIR$/public_html/includes/header.php" />
         <option value="$PROJECT_DIR$/public_html/.htaccess" />
+        <option value="$PROJECT_DIR$/public_html/includes/home.php" />
       </list>
     </option>
   </component>
@@ -189,6 +176,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="15" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="724" />
@@ -208,7 +196,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -255,7 +243,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -376,21 +364,21 @@
       <workItem from="1525705231830" duration="9000" />
       <workItem from="1525745313653" duration="1106000" />
       <workItem from="1526005103743" duration="1164000" />
+      <workItem from="1526605513122" duration="47000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36982000" />
+    <option name="totallyTimeSpent" value="37029000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="724" extended-state="6" />
+    <frame x="15" y="23" width="1280" height="724" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13731825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13893376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -402,6 +390,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -503,7 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -567,7 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -583,7 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4515">
           <caret line="301" column="13" lean-forward="false" selection-start-line="301" selection-start-column="13" selection-end-line="301" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -655,7 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6495">
           <caret line="433" column="20" lean-forward="false" selection-start-line="433" selection-start-column="20" selection-end-line="433" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,13 +791,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="58" column="11" lean-forward="false" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public_html/includes/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
+        <state relative-caret-position="630">
           <caret line="42" column="6" lean-forward="true" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
           <folding />
         </state>
@@ -820,15 +804,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public_html/includes/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="47" />
+        <state relative-caret-position="150">
+          <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public_html/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
+        <state relative-caret-position="915">
           <caret line="61" column="21" lean-forward="false" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
           <folding />
         </state>
@@ -836,8 +820,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public_html/includes/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="140" column="13" lean-forward="true" selection-start-line="140" selection-start-column="13" selection-end-line="140" selection-end-column="13" />
+        <state relative-caret-position="282">
+          <caret line="119" column="24" lean-forward="false" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
           <folding />
         </state>
       </provider>

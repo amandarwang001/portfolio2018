@@ -118,8 +118,6 @@
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>
-                    <a href="http://pathogend.dev.dijatek.com/" target="_blank" rel="noopener"
-                       class="btn btn-black mt-auto mb-2">Visit my redesign of this site <br>(dev site)</a>
                     <a href="https://pathogend.com/" target="_blank" rel="noopener" class="btn btn-purple mt-auto mb-2">Visit
                         the original Pathogend site</a>
 
