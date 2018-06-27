@@ -88,9 +88,6 @@
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>
                     <a href="http://dijatek.com/" class="btn btn-black mt-auto mb-2">Visit Dijatek</a>
-                    <a href="http://dijatek2018.dev.dijatek.com/" class="btn btn-black mt-auto mb-2">Visit Dijatek's
-                        website V2 <br>(dev site)</a>
-
                 </div>
             </div>
         </div>
@@ -119,7 +116,7 @@
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>
                     <a href="https://pathogend.com/" target="_blank" rel="noopener" class="btn btn-purple mt-auto mb-2">Visit
-                        the original Pathogend site</a>
+                        Pathogend</a>
 
                 </div>
             </div>
@@ -138,8 +135,7 @@
                 <div class="card-body p-2 d-flex align-items-center flex-column cardBodyBorder">
                     <h5 class="card-title"><u>ChaChow</u></h5>
                     <p class="card-text text-center">ChaChow is a food truck community website, connecting food truck
-                        owners with
-                        their customers.
+                        owners with their customers. It is currently in beta.
                         <br><br>
                         Front end built with: PHP, HTML, CSS, and Bootstrap 4. Fully mobile-responsive.
                     </p>

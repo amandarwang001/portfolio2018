@@ -38,7 +38,7 @@
             <div class="card navbarFont p-3 mt-3">
                 <div class="card-body">
                     <h4 class="card-title">Dijatek, LLC - Oviedo, FL</h4>
-                    <h6 class="card-subtitle">Director of Operations & Full Stack Developer, Mar. 2017 - current</h6>
+                    <h6 class="card-subtitle">Director of Operations & Front End Developer, Mar. 2017 - current</h6>
                     <br>
                     <p class="card-text">Client coordinator responsible for ensuring client needs are understood
                         and met in accordance with agreed proposals, including:<br><br>
